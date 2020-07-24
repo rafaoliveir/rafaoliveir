@@ -1,4 +1,4 @@
-   ### Olá, Devs! 🖖
+   ### 🖖 Olá, Devs! 
   
 <p  align="center" >
   <img width=200px src="https://user-images.githubusercontent.com/54906981/88406298-de88e480-cda6-11ea-8598-b3a094aff881.gif"> 
