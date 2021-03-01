@@ -10,7 +10,7 @@ Pode me chamar de Rafa! <br>
 Sou estudante de engenharia de computação, desenvolvedora iniciante e apaixonada por tecnologia! <br>
 Atualmente focada em me especializar no desenvolvimento front-end e em UX/UI design.<br>
 
-<a href="https://www.linkedin.com/in/rafaela-odr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+<a href="https://www.linkedin.com/in/rafaela-odro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
   </p>
 
 #### 💻 Tecnologias:
